@@ -2,4 +2,4 @@ Django==3.1.*
 djangorestframework==3.12.*
 django-extensions==3.1.*
 #djangorestframework-simplejwt==4.6.*
-#dj-rest-auth
+#dj-rest-auth==2.1.*
