@@ -40,8 +40,12 @@ INSTALLED_APPS = [
 
     # 3rd party apps
     'rest_framework',
-    # 'rest_framework.authtoken',
+    'rest_framework.authtoken',
     'django_extensions',
+
+    # My applications
+    'shop.apps.ShopConfig',
+    'apiv1.apps.Apiv1Config',
 ]
 
 MIDDLEWARE = [
